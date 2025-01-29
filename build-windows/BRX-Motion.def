@@ -1,0 +1,5 @@
+EXPORTS
+	brx_motion_create_capture
+	brx_motion_destory_capture
+	brx_motion_create_skeleton
+	brx_motion_destroy_skeleton
